@@ -9,7 +9,7 @@ liste composant :
 http://www.ebay.fr/itm/252533336629?_trksid=p2057872.m2749.l2649
 
 1x ESP8266 12e
-1x Fusible 500mA
+1x Fusible 500mA (exemple : http://fr.farnell.com/multicomp/mst-500ma-250v/fusible-radial-action-lente-bbas/dp/1566097)
 
 2x Diode 1N4007
 2x optotriac TLP168J
